@@ -1,0 +1,5 @@
+environs==9.3.2
+# Test
+flake8==3.9.2
+mypy==0.770
+pytest==6.2.4
