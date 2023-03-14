@@ -4,12 +4,6 @@ Go to the following URL, and download the dataset on sampled Last.fm usage:
 
 - http://ocelma.net/MusicRecommendationDataset/lastfm-1K.html
 
-Please answer the questions below using either Python or Scala, preferably in Spark. For each question, describe the approach you used, and provide all output and scripts, supporting files, queries, commands, etc. that you wrote to solve the problem.
-
----
-
-# Local Development/Run
-
 **Note**: Assuming Linux/MacOS environment, plus Python & Spark.
 
 Please dowonload `userid-timestamp-artid-artname-traid-traname.tsv` from the above `URL` and place it in the `./app_musicrecommendation/dataset/` folder.
