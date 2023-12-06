@@ -1,0 +1,5 @@
+plac==1.4.1
+# test-requirements.txt
+flake8==6.1.0
+mypy==1.7.1
+pytest==7.4.3
